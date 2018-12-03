@@ -1,6 +1,6 @@
-FROM alpine:3.7
+FROM alpine:3.8
 
-LABEL mariadb.version=10.1.28
+LABEL mariadb.version=10.3.10
 LABEL maintainer="Florian Durano <psykoterro@gmail.com>" \
     org.label-schema.schema-version="1.0" \
     org.label-schema.vendor="meg4r0m" \

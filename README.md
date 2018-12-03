@@ -1,4 +1,4 @@
-# Docker + Alpine-3.7 + Mysql/MariaDB-10.1.28
+# Docker + Alpine-3.8 + Mysql/MariaDB-10.3.10
 
 #### parameter
 
@@ -10,7 +10,7 @@
 #### build image
 
 ```
-$ docker build -t="leafney/docker-alpine-mysql" .
+$ docker build -t="meg4r0m/alpine-mysql" .
 ```
 
 #### run a default contaier
